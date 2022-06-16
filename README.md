@@ -9,3 +9,8 @@ A free text editor - free to everyone.
 Official website: https://www.txter.weebly.com/
 
 Official E-mail: mailto:brightsoftwarefoundation@gmail.com
+
+## Licenses and legal
+We'd following the Bright Software License 1.0 version. (c) 2022 BSL.
+
+So you all guys have the right to view and copy our sources without a penny!
